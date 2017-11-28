@@ -29,6 +29,17 @@ Create a list of developers (Use Developer.java)
 Get the lowest price for a given book. Use *BookPriceService* to get the price for a book in a given store
  
 
+## Exercise 4
+Take a look at *Book.java* and maintain stocks against each book.
+Support the following
+   * Search book by isbn and show the stock
+   * Search book by author (partial search) and show the stock
+   * Search book by price range and show the stock
+   * List out of stock books
+   * List of low stock books (stock in hand is 5 or less)
+   
+Enhance the application to support maintaining stocks at multiple warehouses.
+ 
   
   
   
