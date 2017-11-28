@@ -1,0 +1,4 @@
+This is a sample data file
+Java 8 introduced lambads
+Functional programming in Java
+ 
